@@ -2,6 +2,14 @@
   "name": "@xniva/terminal-shortcuts",
   "version": "1.0.0",
   "description": "Shortcuts for the commonly used terminal commands",
+  "bin": {
+    "c": "bin/clear_terminal.js",
+    "cls": "bin/clear_terminal.js",
+    "re": "bin/restart_terminal.js",
+    "dc": "bin/docker_compose_up.js",
+    "ns": "bin/npm_start.js",
+    "ni": "bin/npm_install.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
