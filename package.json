@@ -1,0 +1,23 @@
+{
+  "name": "@xniva/terminal-shortcuts",
+  "version": "1.0.0",
+  "description": "Shortcuts for the commonly used terminal commands",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavinkuma6/terminal-commands.git"
+  },
+  "keywords": [
+    "shortcuts",
+    "terminal",
+    "productivity"
+  ],
+  "author": "Kavinkumar R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kavinkuma6/terminal-commands/issues"
+  },
+  "homepage": "https://github.com/kavinkuma6/terminal-commands#readme"
+}
